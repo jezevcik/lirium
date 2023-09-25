@@ -8,3 +8,14 @@ I can't tell you exactly how much it cost since it got taken down from haze.yt a
 As mentioned in the description, this is not some kind of insane leak that shocked the community, as Kroko made the repository public one day and then deleted it or re-privated it again, as he did with Koks and Atom before.
 
 Apparently, compensation for the people who bought the client was given out, so I wouldn't call this a scam, and I don't want any drama with the developers. I just wanted to preserve this so all Minecraft cheat archiving isn't in the hands of some skids reuploading cracks on Masterof13FPS and poorly managed Discord servers.
+
+Some footage of the client:
+https://www.youtube.com/watch?v=Vl-nWxcdZ9s&t
+https://www.youtube.com/watch?v=WrdvBckUjdE
+https://www.youtube.com/watch?v=pkQ5oOkg8aI
+https://www.youtube.com/watch?v=osSg8eoWoYY
+https://www.youtube.com/watch?v=rYzP4tHMS64&t
+https://www.youtube.com/watch?v=1NeIdBrYC1w&t
+https://www.youtube.com/watch?v=UBLEdul1ftQ&t
+https://www.youtube.com/watch?v=RIfPdrX3kOw&t
+https://www.youtube.com/watch?v=slqex267S3s&t
