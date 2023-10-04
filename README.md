@@ -3,7 +3,7 @@ This client was released on Haze.yt around December 2022. The client sucked, and
 
 So let's recap this: the only worthwhile feature in this client was a module that sent a single packet every tick, and the rest of the bypasses were vanilla or mediocre, even for a free client.
 
-The client cost 10 euro for 30 days, 30 euro for a year and 30€ for lifetime, of which there was a limited amount of licences.
+The client cost 10€ for 30 days, 30€ for a year and 30€ for lifetime, of which there was a limited amount of licences.
 
 As mentioned in the description, this is not some kind of insane leak that shocked the community, as Kroko made the repository public one day and then deleted it or re-privated it again, as he did with Koks and Atom before.
 
